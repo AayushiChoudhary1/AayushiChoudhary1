@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [MUSIC_PLAYER](https://github.com/AayushiChoudhary1/MUSIC_PLAYER.git)
+- 🔭 I’m currently working on [MUSIC_PLAYER WEB APP](https://github.com/AayushiChoudhary1/MUSIC_PLAYER.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
