@@ -3,9 +3,9 @@
 
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
 
-<h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [MUSIC_PLAYER WEB APP](https://github.com/AayushiChoudhary1/MUSIC_PLAYER.git)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
